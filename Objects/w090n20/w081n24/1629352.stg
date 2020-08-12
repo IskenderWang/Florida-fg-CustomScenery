@@ -1,0 +1,12 @@
+# osm2city_w090n20_w082n24_1612971
+# do not edit below this line
+# Last Written Tue Mar 15 23:20:41 2016
+#
+OBJECT_STATIC w090n20_w082n24_1612971city1003.ac -80.98105 24.71084 -2.61 0
+# END osm2city_w090n20_w082n24_1612971
+# osm2roads_w090n20_w082n24_1612971
+# do not edit below this line
+# Last Written Tue Mar 15 23:20:53 2016
+#
+OBJECT_STATIC w090n20_w082n24_1612971roads0502.xml -80.97827 24.73785 -0.10 0
+# END osm2roads_w090n20_w082n24_1612971

@@ -1,0 +1,21 @@
+AC3Db
+MATERIAL "" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "w090n20_w081n28_1629601roads0902"
+texture "tex/roads.png"
+numvert 4
+705.94 2.26 1068.39
+705.16 1.67 818.79
+713.94 2.26 1068.37
+713.16 1.65 818.76
+numsurf 1
+SURF 0
+mat 0
+refs 4
+2 0.25 0
+3 0.25 8.32
+1 0.125 8.32
+0 0.125 0
+kids 0
