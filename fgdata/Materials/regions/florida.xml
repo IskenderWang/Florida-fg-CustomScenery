@@ -93,7 +93,7 @@
     <xsize>2000</xsize>
     <ysize>2000</ysize>
     <light-coverage>10000000.0</light-coverage>
-    <wood-coverage>4000.0</wood-coverage>
+    <wood-coverage>3000.0</wood-coverage>
     <tree-texture>Trees/tropical.png</tree-texture>
     <tree-varieties>8</tree-varieties>
     <tree-height-m>25.0</tree-height-m>
