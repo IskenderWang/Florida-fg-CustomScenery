@@ -1,7 +1,0 @@
-# osm2city_w090n20_w081n26_1629489
-# do not edit below this line
-# Last Written Sun Feb  9 07:43:49 2020
-#
-BUILDING_LIST w090n20_w081n26_1629489_buildings_shader.txt OSMBuildings -80.62500 26.81250 3.98
-OBJECT_BUILDING_MESH_DETAILED w090n20_w081n26_1629489city00202.ac -80.69240 26.80065 3.96 0
-# END osm2city_w090n20_w081n26_1629489
