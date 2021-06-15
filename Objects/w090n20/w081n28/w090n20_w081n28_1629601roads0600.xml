@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>w090n20_w081n28_1629601roads0600.ac</path>
+<effect>
+<!--
+    EITHER enable the traffic shader
+        <inherits-from>Effects/road-high</inherits-from>
+    OR the lightmap shader
+        <inherits-from>roads</inherits-from>
+-->
+        <inherits-from>Effects/road-high</inherits-from>
+        <object-name>w090n20_w081n28_1629601roads0600</object-name>
+</effect>
+</PropertyList>
